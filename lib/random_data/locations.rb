@@ -1,3 +1,7 @@
+if RUBY_VERSION > "1.8.7"
+  # coding: utf-8
+end
+
 module RandomData
   
   # Defines methods to return random location data.
