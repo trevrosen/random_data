@@ -1,6 +1,4 @@
-if RUBY_VERSION > "1.8.7"
-  # coding: utf-8
-end
+# coding: utf-8
 
 module RandomData
   
